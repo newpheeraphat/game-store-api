@@ -24,3 +24,12 @@
 /Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/obj/Debug/net7.0/GameStore.genruntimeconfig.cache
 /Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/obj/Debug/net7.0/ref/GameStore.dll
 /Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/obj/Debug/net7.0/GameStore.sourcelink.json
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/bin/Debug/net7.0/MinimalApi.Endpoint.dll
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/bin/Debug/net7.0/MinimalApis.Extensions.dll
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/bin/Debug/net7.0/MiniValidation.dll
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/obj/Debug/net7.0/GameStore.csproj.AssemblyReference.cache
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/obj/Debug/net7.0/GameStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/pheeraphatprisan/Library/CloudStorage/GoogleDrive-pheeraphat.pri@student.mahidol.edu/My Drive/FlowAccount/DOTNET/Project/GameStore/obj/Debug/net7.0/GameStore.csproj.Up2Date
