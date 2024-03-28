@@ -1,16 +1,16 @@
 GET http://localhost:5100/games
 
 ### 
-GET http://localhost:5100/games/4
+GET http://localhost:5100/games/1
 
 ###
 POST http://localhost:5100/games
 Content-Type: application/json
 
 {
-  "name": "Minecraft",
-  "genre": "Kid and Family",
-  "price": 19.99,
+  "name": "GTA III",
+  "genreId": 1,
+  "price": 9.99,
   "releaseDate": "2011-11-18"
 }
 
@@ -19,11 +19,10 @@ PUT http://localhost:5100/games/1
 Content-Type: application/json
 
 {
-    "id": 1,
-    "name": "Street Fighter II Turbo",
-    "genre": "Fighting",
-    "price": 19.99,
-    "releaseDate": "1997-11-15"
+    "name": "GTA III Remastered",
+    "genreId": 1,
+    "price": 29.99,
+    "releaseDate": "2019-12-25"
 }
 
 
